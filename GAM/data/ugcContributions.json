@@ -15023,7 +15023,7 @@
         "origin": "35330",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15035,7 +15035,7 @@
         "origin": "35229",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15047,7 +15047,7 @@
         "origin": "35380",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15061,8 +15061,11 @@
         "origin": "35229",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "al mare\n\n",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70",
+          "\ud83e\udd29"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15073,8 +15076,10 @@
         "origin": "39175",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "malattia\n",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude31"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15087,7 +15092,7 @@
         "origin": "35227",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15099,7 +15104,7 @@
         "origin": "39648",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15113,8 +15118,10 @@
         "origin": "39138",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude34"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15125,8 +15132,10 @@
         "origin": "35360",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15137,8 +15146,10 @@
         "origin": "35381",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15149,8 +15160,10 @@
         "origin": "35459",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15163,8 +15176,10 @@
         "origin": "39347",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "mirrored images in water viewed from a bridge ",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude0c"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15175,8 +15190,10 @@
         "origin": "35459",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "a quiet summer afternoon",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude0c"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15187,8 +15204,10 @@
         "origin": "35224",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "lost memories ",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude22"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15201,7 +15220,7 @@
         "origin": "35380",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15213,7 +15232,7 @@
         "origin": "35217",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15227,8 +15246,11 @@
         "origin": "35381",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd29",
+          "\ud83e\uddd0"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15239,8 +15261,10 @@
         "origin": "35380",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15251,7 +15275,7 @@
         "origin": "35230",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15265,8 +15289,8 @@
         "origin": "35412",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "quanto sia dolorosa la morte ",
+        "pname": "emotions.emojis",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15277,8 +15301,8 @@
         "origin": "39352",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "i colori della pace ",
+        "pname": "emotions.emojis",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15291,8 +15315,10 @@
         "origin": "35330",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude0c"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15303,8 +15329,10 @@
         "origin": "35433",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15317,8 +15345,10 @@
         "origin": "35450",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "Ovid's Metamorphosis",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd29"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15329,8 +15359,10 @@
         "origin": "35208",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "the Napoleonic era",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd29"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15341,8 +15373,10 @@
         "origin": "39416",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "a greek temple or a board game",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd29"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15355,8 +15389,8 @@
         "origin": "39416",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "gli scacchi quando giocavo con mia nonna e mio nonno \n\n\n",
+        "pname": "emotions.emojis",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15367,7 +15401,7 @@
         "origin": "39416",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15381,7 +15415,7 @@
         "origin": "35465",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15393,7 +15427,7 @@
         "origin": "35256",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15405,8 +15439,10 @@
         "origin": "35249",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\uddd0"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15419,8 +15455,10 @@
         "origin": "35450",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "le tipiche donne etrusche ",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude22"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15431,8 +15469,10 @@
         "origin": "35215",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "mi ricorda le campagne dopo una lunga siccit\u00e0 come quest'anno",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude22"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15445,7 +15485,7 @@
         "origin": "35221",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15457,8 +15497,8 @@
         "origin": "35459",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "nonni",
+        "pname": "emotions.emojis",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15469,8 +15509,8 @@
         "origin": "35433",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "pirati dei caraibi",
+        "pname": "emotions.emojis",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15483,8 +15523,10 @@
         "origin": "39138",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd29"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15495,8 +15537,10 @@
         "origin": "35308",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\uddd0"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15507,7 +15551,7 @@
         "origin": "35310",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15521,7 +15565,7 @@
         "origin": "35381",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15533,7 +15577,7 @@
         "origin": "35310",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15545,7 +15589,7 @@
         "origin": "35433",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15557,8 +15601,8 @@
         "origin": "35227",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "l\u2019infanzia",
+        "pname": "emotions.emojis",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15571,7 +15615,7 @@
         "origin": "35330",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15583,7 +15627,7 @@
         "origin": "39138",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15597,8 +15641,10 @@
         "origin": "35229",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\uddd0"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15609,8 +15655,10 @@
         "origin": "35217",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\uddd0"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15623,8 +15671,8 @@
         "origin": "39384",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "il tramonto",
+        "pname": "emotions.emojis",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15635,8 +15683,8 @@
         "origin": "35499",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "il caldo estivo",
+        "pname": "emotions.emojis",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15649,7 +15697,7 @@
         "origin": "35227",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15661,7 +15709,7 @@
         "origin": "35433",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15675,7 +15723,7 @@
         "origin": "35230",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15687,8 +15735,8 @@
         "origin": "35288",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "passato",
+        "pname": "emotions.emojis",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15699,7 +15747,7 @@
         "origin": "35323",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15713,8 +15761,11 @@
         "origin": "39426",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70",
+          "\ud83e\udd29"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15725,8 +15776,11 @@
         "origin": "39347",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd29",
+          "\ud83e\uddd0"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15739,7 +15793,7 @@
         "origin": "35230",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15751,7 +15805,7 @@
         "origin": "35456",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15763,7 +15817,7 @@
         "origin": "35374",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15775,7 +15829,7 @@
         "origin": "39175",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15789,8 +15843,10 @@
         "origin": "35310",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15801,8 +15857,10 @@
         "origin": "35374",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude22"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15813,8 +15871,10 @@
         "origin": "35222",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude31"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15827,7 +15887,7 @@
         "origin": "39175",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15839,8 +15899,8 @@
         "origin": "35307",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "mio paesino",
+        "pname": "emotions.emojis",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15851,7 +15911,7 @@
         "origin": "35360",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15863,7 +15923,7 @@
         "origin": "35381",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15877,8 +15937,8 @@
         "origin": "35499",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "Che oggi fa troppo freddo. Che odio il freddo perch\u00e8 mancano 2 giorni a Natale",
+        "pname": "emotions.emojis",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15889,8 +15949,8 @@
         "origin": "39389",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "il mio cane",
+        "pname": "emotions.emojis",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15903,8 +15963,8 @@
         "origin": "35221",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "una mia paziente in pediatria",
+        "pname": "emotions.emojis",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15915,8 +15975,8 @@
         "origin": "35323",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "quando ero piccola ed ero dai nonni",
+        "pname": "emotions.emojis",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15929,7 +15989,7 @@
         "origin": "39138",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15941,7 +16001,7 @@
         "origin": "35459",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15953,8 +16013,12 @@
         "origin": "35364",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70",
+          "\ud83d\ude22",
+          "\ud83d\ude0c"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15965,7 +16029,7 @@
         "origin": "35456",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15979,8 +16043,10 @@
         "origin": "35321",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude22"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15991,8 +16057,10 @@
         "origin": "39347",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16005,7 +16073,7 @@
         "origin": "35433",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16017,7 +16085,7 @@
         "origin": "35215",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16031,7 +16099,7 @@
         "origin": "35445",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16043,7 +16111,7 @@
         "origin": "35571",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16057,8 +16125,10 @@
         "origin": "35362",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "quello che \u00e8 successo la scorsa estate, quando ero quasi affogata nel mare ",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude31"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16069,7 +16139,7 @@
         "origin": "39347",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16083,8 +16153,10 @@
         "origin": "35321",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude22"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16095,8 +16167,10 @@
         "origin": "35208",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "gli studi del liceo",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16107,8 +16181,10 @@
         "origin": "35456",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude0c"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16121,7 +16197,7 @@
         "origin": "35459",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16133,7 +16209,7 @@
         "origin": "35445",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16145,7 +16221,7 @@
         "origin": "35456",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16159,8 +16235,10 @@
         "origin": "35381",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude0c"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16171,8 +16249,11 @@
         "origin": "35323",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude22",
+          "\ud83d\ude0c"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16183,8 +16264,10 @@
         "origin": "39347",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude31"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16197,7 +16280,7 @@
         "origin": "39416",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16209,8 +16292,8 @@
         "origin": "35362",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "una localit\u00e0 di mare ",
+        "pname": "emotions.emojis",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16223,7 +16306,7 @@
         "origin": "39182",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16235,8 +16318,10 @@
         "origin": "35380",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16247,8 +16332,10 @@
         "origin": "39648",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "casa",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude0c"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16259,7 +16346,7 @@
         "origin": "35433",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16271,8 +16358,10 @@
         "origin": "35499",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude31"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16285,8 +16374,10 @@
         "origin": "39182",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "la casa dello zio di un amico",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude0c"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16297,8 +16388,10 @@
         "origin": "39138",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "le piscine delle terme, anche se qui c'\u00e8 una barca",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16311,7 +16404,7 @@
         "origin": "39138",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16323,7 +16416,7 @@
         "origin": "39138",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16337,7 +16430,7 @@
         "origin": "39175",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16349,8 +16442,8 @@
         "origin": "35571",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "il corso di ceramica",
+        "pname": "emotions.emojis",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16361,7 +16454,7 @@
         "origin": "35230",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16375,7 +16468,7 @@
         "origin": "35288",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16387,7 +16480,7 @@
         "origin": "35360",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16399,7 +16492,7 @@
         "origin": "35445",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16413,7 +16506,7 @@
         "origin": "39384",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16425,7 +16518,7 @@
         "origin": "39138",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16439,8 +16532,10 @@
         "origin": "35230",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16451,8 +16546,10 @@
         "origin": "35222",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude22"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16465,8 +16562,10 @@
         "origin": "35230",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16477,7 +16576,7 @@
         "origin": "35380",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16489,8 +16588,10 @@
         "origin": "35229",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16503,8 +16604,10 @@
         "origin": "35571",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude34"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16515,7 +16618,7 @@
         "origin": "35245",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16529,8 +16632,10 @@
         "origin": "39200",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16541,8 +16646,8 @@
         "origin": "35227",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "i miei nonni che fanno un bel picnic in riva al mare",
+        "pname": "emotions.emojis",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16553,8 +16658,8 @@
         "origin": "35364",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "mia zia, che aveva molti figli e si prendeva sempre cura con gentilezza di loro",
+        "pname": "emotions.emojis",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16567,7 +16672,7 @@
         "origin": "35381",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16579,7 +16684,7 @@
         "origin": "35323",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16593,8 +16698,8 @@
         "origin": "39416",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "i giochi di ruolo con i nonni e i cugini",
+        "pname": "emotions.emojis",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16605,8 +16710,8 @@
         "origin": "39175",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "la tavola imbandita del cenone di natale",
+        "pname": "emotions.emojis",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16619,7 +16724,7 @@
         "origin": "35307",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16631,7 +16736,7 @@
         "origin": "35433",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16645,8 +16750,10 @@
         "origin": "35362",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "la mia infanzia ",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16657,8 +16764,11 @@
         "origin": "35445",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "quando studiavo ",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude0c",
+          "\ud83d\ude34"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16669,8 +16779,10 @@
         "origin": "35323",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "la primavera ",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude34"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16683,8 +16795,10 @@
         "origin": "39347",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude0c"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16695,8 +16809,10 @@
         "origin": "35445",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude34"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16707,8 +16823,10 @@
         "origin": "35433",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16721,8 +16839,10 @@
         "origin": "35310",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude34"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16733,8 +16853,10 @@
         "origin": "35380",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16747,7 +16869,7 @@
         "origin": "35221",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16759,7 +16881,7 @@
         "origin": "39352",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16771,7 +16893,7 @@
         "origin": "39347",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16783,7 +16905,7 @@
         "origin": "35412",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16797,7 +16919,7 @@
         "origin": "35308",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16809,7 +16931,7 @@
         "origin": "35288",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16821,7 +16943,7 @@
         "origin": "35362",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16835,7 +16957,7 @@
         "origin": "35330",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16847,7 +16969,7 @@
         "origin": "39200",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16859,8 +16981,10 @@
         "origin": "35225",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude0c"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16873,8 +16997,10 @@
         "origin": "39200",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\uddd0"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16885,8 +17011,10 @@
         "origin": "35571",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude22"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16899,8 +17027,10 @@
         "origin": "35229",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\uddd0"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16911,8 +17041,10 @@
         "origin": "39648",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd29"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16923,7 +17055,7 @@
         "origin": "39200",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16935,8 +17067,10 @@
         "origin": "39175",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude34"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16949,7 +17083,7 @@
         "origin": "35330",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16961,7 +17095,7 @@
         "origin": "39175",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16973,7 +17107,7 @@
         "origin": "39427",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16985,8 +17119,10 @@
         "origin": "35229",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd29"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16997,7 +17133,7 @@
         "origin": "35364",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -17011,7 +17147,7 @@
         "origin": "35360",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -17023,7 +17159,7 @@
         "origin": "35245",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
+        "pname": "emotions.emojis",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -17037,8 +17173,10 @@
         "origin": "35362",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd29"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -17049,8 +17187,10 @@
         "origin": "39416",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd22"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -17061,8 +17201,10 @@
         "origin": "35229",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude31"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -17075,8 +17217,10 @@
         "origin": "35364",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude0c"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -17087,8 +17231,10 @@
         "origin": "35230",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "itRemindsMeOf.text",
-        "pvalue": "",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -19225,6 +19371,2232 @@
         "source": "fake",
         "pname": "itRemindsMeOf.sentiment",
         "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ]
+  },
+  "emojis": {
+    "HoNIcWZY": [
+      {
+        "id": "6364f4e9ad16cc2ce70b6f0f",
+        "userid": "HoNIcWZY",
+        "origin": "35330",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6364f4e9ad16cc2ce70b6f0f",
+        "userid": "HoNIcWZY",
+        "origin": "35229",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6364f4e9ad16cc2ce70b6f0f",
+        "userid": "HoNIcWZY",
+        "origin": "35380",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "e4aM9WL7": [
+      {
+        "id": "622764d6efc0335e1948a813",
+        "userid": "e4aM9WL7",
+        "origin": "35229",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70",
+          "\ud83e\udd29"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "622764d6efc0335e1948a813",
+        "userid": "e4aM9WL7",
+        "origin": "39175",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude31"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "bSuOYLw2": [
+      {
+        "id": "6338649a2df2fd104d686349",
+        "userid": "bSuOYLw2",
+        "origin": "35227",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6338649a2df2fd104d686349",
+        "userid": "bSuOYLw2",
+        "origin": "39648",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "cmq6JZxJ": [
+      {
+        "id": "6374b54a66be097e4b113381",
+        "userid": "cmq6JZxJ",
+        "origin": "39138",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude34"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6374b54a66be097e4b113381",
+        "userid": "cmq6JZxJ",
+        "origin": "35360",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6374b54a66be097e4b113381",
+        "userid": "cmq6JZxJ",
+        "origin": "35381",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6374b54a66be097e4b113381",
+        "userid": "cmq6JZxJ",
+        "origin": "35459",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "BTKF72et": [
+      {
+        "id": "632dab3fcfb08e51f124bcef",
+        "userid": "BTKF72et",
+        "origin": "39347",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude0c"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "632dab3fcfb08e51f124bcef",
+        "userid": "BTKF72et",
+        "origin": "35459",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude0c"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "632dab3fcfb08e51f124bcef",
+        "userid": "BTKF72et",
+        "origin": "35224",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude22"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "fqybaAk8": [
+      {
+        "id": "6331fb30da21134eb64f76f3",
+        "userid": "fqybaAk8",
+        "origin": "35380",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6331fb30da21134eb64f76f3",
+        "userid": "fqybaAk8",
+        "origin": "35217",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "PxrTX0Ln": [
+      {
+        "id": "6364f352e5a2fa0ed0297d0f",
+        "userid": "PxrTX0Ln",
+        "origin": "35381",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd29",
+          "\ud83e\uddd0"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6364f352e5a2fa0ed0297d0f",
+        "userid": "PxrTX0Ln",
+        "origin": "35380",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6364f352e5a2fa0ed0297d0f",
+        "userid": "PxrTX0Ln",
+        "origin": "35230",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "anqHwMQ0": [
+      {
+        "id": "6228777680271c3692478fc0",
+        "userid": "anqHwMQ0",
+        "origin": "35412",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6228777680271c3692478fc0",
+        "userid": "anqHwMQ0",
+        "origin": "39352",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "yjlouq5U": [
+      {
+        "id": "63385bb4f5bdab798a1a88a3",
+        "userid": "yjlouq5U",
+        "origin": "35330",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude0c"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63385bb4f5bdab798a1a88a3",
+        "userid": "yjlouq5U",
+        "origin": "35433",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "6rK3p7za": [
+      {
+        "id": "6333fc6b8975311483239877",
+        "userid": "6rK3p7za",
+        "origin": "35450",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd29"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6333fc6b8975311483239877",
+        "userid": "6rK3p7za",
+        "origin": "35208",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd29"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6333fc6b8975311483239877",
+        "userid": "6rK3p7za",
+        "origin": "39416",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd29"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "RQ4a2nIG": [
+      {
+        "id": "633869df947d991ed04cf7f7",
+        "userid": "RQ4a2nIG",
+        "origin": "39416",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "633869df947d991ed04cf7f7",
+        "userid": "RQ4a2nIG",
+        "origin": "39416",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "ox8G7avH": [
+      {
+        "id": "633167f663cf7869106557ec",
+        "userid": "ox8G7avH",
+        "origin": "35465",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "633167f663cf7869106557ec",
+        "userid": "ox8G7avH",
+        "origin": "35256",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "633167f663cf7869106557ec",
+        "userid": "ox8G7avH",
+        "origin": "35249",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\uddd0"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "0bAAwK14": [
+      {
+        "id": "63313e7848ebba445a3b3cee",
+        "userid": "0bAAwK14",
+        "origin": "35450",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude22"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63313e7848ebba445a3b3cee",
+        "userid": "0bAAwK14",
+        "origin": "35215",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude22"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "KQTGApjD": [
+      {
+        "id": "633857981931f9059341ba94",
+        "userid": "KQTGApjD",
+        "origin": "35221",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "633857981931f9059341ba94",
+        "userid": "KQTGApjD",
+        "origin": "35459",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "633857981931f9059341ba94",
+        "userid": "KQTGApjD",
+        "origin": "35433",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "loEoYm9R": [
+      {
+        "id": "63384848f689b570b53ec481",
+        "userid": "loEoYm9R",
+        "origin": "39138",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd29"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63384848f689b570b53ec481",
+        "userid": "loEoYm9R",
+        "origin": "35308",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\uddd0"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63384848f689b570b53ec481",
+        "userid": "loEoYm9R",
+        "origin": "35310",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "2GROTNeg": [
+      {
+        "id": "63a3248b88aacc4c1b0e3069",
+        "userid": "2GROTNeg",
+        "origin": "35381",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63a3248b88aacc4c1b0e3069",
+        "userid": "2GROTNeg",
+        "origin": "35310",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63a3248b88aacc4c1b0e3069",
+        "userid": "2GROTNeg",
+        "origin": "35433",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63a3248b88aacc4c1b0e3069",
+        "userid": "2GROTNeg",
+        "origin": "35227",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "ZWrgWx9o": [
+      {
+        "id": "63382d748ceb081caa6ba997",
+        "userid": "ZWrgWx9o",
+        "origin": "35330",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63382d748ceb081caa6ba997",
+        "userid": "ZWrgWx9o",
+        "origin": "39138",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "BNtsz8zb": [
+      {
+        "id": "6364f4427777834a837dc841",
+        "userid": "BNtsz8zb",
+        "origin": "35229",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\uddd0"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6364f4427777834a837dc841",
+        "userid": "BNtsz8zb",
+        "origin": "35217",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\uddd0"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "oITaD0ND": [
+      {
+        "id": "63a40ba99200607ab608358e",
+        "userid": "oITaD0ND",
+        "origin": "39384",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63a40ba99200607ab608358e",
+        "userid": "oITaD0ND",
+        "origin": "35499",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "lkkZ1lUv": [
+      {
+        "id": "63a423ac181ff6483d5b1fbd",
+        "userid": "lkkZ1lUv",
+        "origin": "35227",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63a423ac181ff6483d5b1fbd",
+        "userid": "lkkZ1lUv",
+        "origin": "35433",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "Y0WXF1LR": [
+      {
+        "id": "63385c0def7ec10976083ec4",
+        "userid": "Y0WXF1LR",
+        "origin": "35230",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63385c0def7ec10976083ec4",
+        "userid": "Y0WXF1LR",
+        "origin": "35288",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63385c0def7ec10976083ec4",
+        "userid": "Y0WXF1LR",
+        "origin": "35323",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "SIbOTAP7": [
+      {
+        "id": "63a32d7079c711024c352232",
+        "userid": "SIbOTAP7",
+        "origin": "39426",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70",
+          "\ud83e\udd29"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63a32d7079c711024c352232",
+        "userid": "SIbOTAP7",
+        "origin": "39347",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd29",
+          "\ud83e\uddd0"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "2LIm9lcH": [
+      {
+        "id": "637ba86a5fe06708aa2277c7",
+        "userid": "2LIm9lcH",
+        "origin": "35230",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "637ba86a5fe06708aa2277c7",
+        "userid": "2LIm9lcH",
+        "origin": "35456",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "637ba86a5fe06708aa2277c7",
+        "userid": "2LIm9lcH",
+        "origin": "35374",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "637ba86a5fe06708aa2277c7",
+        "userid": "2LIm9lcH",
+        "origin": "39175",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "3K9AMmqU": [
+      {
+        "id": "6364f2f0e3da80744e7cfe2d",
+        "userid": "3K9AMmqU",
+        "origin": "35310",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6364f2f0e3da80744e7cfe2d",
+        "userid": "3K9AMmqU",
+        "origin": "35374",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude22"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6364f2f0e3da80744e7cfe2d",
+        "userid": "3K9AMmqU",
+        "origin": "35222",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude31"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "xi3DCToA": [
+      {
+        "id": "63a31fe9e64e305ea45eedc6",
+        "userid": "xi3DCToA",
+        "origin": "39175",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63a31fe9e64e305ea45eedc6",
+        "userid": "xi3DCToA",
+        "origin": "35307",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63a31fe9e64e305ea45eedc6",
+        "userid": "xi3DCToA",
+        "origin": "35360",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63a31fe9e64e305ea45eedc6",
+        "userid": "xi3DCToA",
+        "origin": "35381",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "eLXgq0Hx": [
+      {
+        "id": "63a57d79d0c1fe512e5c7658",
+        "userid": "eLXgq0Hx",
+        "origin": "35499",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63a57d79d0c1fe512e5c7658",
+        "userid": "eLXgq0Hx",
+        "origin": "39389",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "Q13Gnsty": [
+      {
+        "id": "63a58223d959850727603dd4",
+        "userid": "Q13Gnsty",
+        "origin": "35221",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63a58223d959850727603dd4",
+        "userid": "Q13Gnsty",
+        "origin": "35323",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "NROrO0c9": [
+      {
+        "id": "6364f3a16da83f3b9e498b10",
+        "userid": "NROrO0c9",
+        "origin": "39138",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6364f3a16da83f3b9e498b10",
+        "userid": "NROrO0c9",
+        "origin": "35459",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6364f3a16da83f3b9e498b10",
+        "userid": "NROrO0c9",
+        "origin": "35364",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70",
+          "\ud83d\ude22",
+          "\ud83d\ude0c"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6364f3a16da83f3b9e498b10",
+        "userid": "NROrO0c9",
+        "origin": "35456",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "W7Wnqxw4": [
+      {
+        "id": "6364f37340b32d50317c6f22",
+        "userid": "W7Wnqxw4",
+        "origin": "35321",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude22"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6364f37340b32d50317c6f22",
+        "userid": "W7Wnqxw4",
+        "origin": "39347",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "8sAIqaGe": [
+      {
+        "id": "633865ce947d991ed04cf7dc",
+        "userid": "8sAIqaGe",
+        "origin": "35433",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "633865ce947d991ed04cf7dc",
+        "userid": "8sAIqaGe",
+        "origin": "35215",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "gD630RD1": [
+      {
+        "id": "63a41f59dcc2451255186b90",
+        "userid": "gD630RD1",
+        "origin": "35445",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63a41f59dcc2451255186b90",
+        "userid": "gD630RD1",
+        "origin": "35571",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "Bf5Sj3ON": [
+      {
+        "id": "6364f52f2d082603e158e7b1",
+        "userid": "Bf5Sj3ON",
+        "origin": "35362",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude31"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6364f52f2d082603e158e7b1",
+        "userid": "Bf5Sj3ON",
+        "origin": "39347",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "jTb1qXEo": [
+      {
+        "id": "63a43455fbfb2074534d6847",
+        "userid": "jTb1qXEo",
+        "origin": "35321",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude22"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63a43455fbfb2074534d6847",
+        "userid": "jTb1qXEo",
+        "origin": "35208",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63a43455fbfb2074534d6847",
+        "userid": "jTb1qXEo",
+        "origin": "35456",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude0c"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "x2AUnHqw": [
+      {
+        "id": "633848b362d1204a35295868",
+        "userid": "x2AUnHqw",
+        "origin": "35459",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "633848b362d1204a35295868",
+        "userid": "x2AUnHqw",
+        "origin": "35445",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "633848b362d1204a35295868",
+        "userid": "x2AUnHqw",
+        "origin": "35456",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "GV4z5ANK": [
+      {
+        "id": "6364f2c21215e37ae0724125",
+        "userid": "GV4z5ANK",
+        "origin": "35381",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude0c"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6364f2c21215e37ae0724125",
+        "userid": "GV4z5ANK",
+        "origin": "35323",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude22",
+          "\ud83d\ude0c"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6364f2c21215e37ae0724125",
+        "userid": "GV4z5ANK",
+        "origin": "39347",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude31"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "N72IRgFy": [
+      {
+        "id": "63384f412899916df970879f",
+        "userid": "N72IRgFy",
+        "origin": "39416",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63384f412899916df970879f",
+        "userid": "N72IRgFy",
+        "origin": "35362",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "Wsip5y7A": [
+      {
+        "id": "63a317d1360026478a582765",
+        "userid": "Wsip5y7A",
+        "origin": "39182",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63a317d1360026478a582765",
+        "userid": "Wsip5y7A",
+        "origin": "35380",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63a317d1360026478a582765",
+        "userid": "Wsip5y7A",
+        "origin": "39648",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude0c"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63a317d1360026478a582765",
+        "userid": "Wsip5y7A",
+        "origin": "35433",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63a317d1360026478a582765",
+        "userid": "Wsip5y7A",
+        "origin": "35499",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude31"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "sXKZ1IUH": [
+      {
+        "id": "636d08475e7e496bb86b67a1",
+        "userid": "sXKZ1IUH",
+        "origin": "39182",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude0c"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "636d08475e7e496bb86b67a1",
+        "userid": "sXKZ1IUH",
+        "origin": "39138",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "btoSxy3T": [
+      {
+        "id": "6364f752ad16cc2ce70b6f2f",
+        "userid": "btoSxy3T",
+        "origin": "39138",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6364f752ad16cc2ce70b6f2f",
+        "userid": "btoSxy3T",
+        "origin": "39138",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "R4frFK0J": [
+      {
+        "id": "6364f3d239a6d246b2029afb",
+        "userid": "R4frFK0J",
+        "origin": "39175",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6364f3d239a6d246b2029afb",
+        "userid": "R4frFK0J",
+        "origin": "35571",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6364f3d239a6d246b2029afb",
+        "userid": "R4frFK0J",
+        "origin": "35230",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "B3N0HGw4": [
+      {
+        "id": "633858f82b631c1bf17add1d",
+        "userid": "B3N0HGw4",
+        "origin": "35288",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "633858f82b631c1bf17add1d",
+        "userid": "B3N0HGw4",
+        "origin": "35360",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "633858f82b631c1bf17add1d",
+        "userid": "B3N0HGw4",
+        "origin": "35445",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "q2BDj1os": [
+      {
+        "id": "63383ea41c952b2c5e786acf",
+        "userid": "q2BDj1os",
+        "origin": "39384",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63383ea41c952b2c5e786acf",
+        "userid": "q2BDj1os",
+        "origin": "39138",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "EEm3fSZd": [
+      {
+        "id": "6364f036c4281001195d2ea2",
+        "userid": "EEm3fSZd",
+        "origin": "35230",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6364f036c4281001195d2ea2",
+        "userid": "EEm3fSZd",
+        "origin": "35222",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude22"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "WYCImqGm": [
+      {
+        "id": "6338483ddf44765455526ee4",
+        "userid": "WYCImqGm",
+        "origin": "35230",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6338483ddf44765455526ee4",
+        "userid": "WYCImqGm",
+        "origin": "35380",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6338483ddf44765455526ee4",
+        "userid": "WYCImqGm",
+        "origin": "35229",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "Sz5Wx2XD": [
+      {
+        "id": "6338625f758e693b2f1aea9d",
+        "userid": "Sz5Wx2XD",
+        "origin": "35571",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude34"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6338625f758e693b2f1aea9d",
+        "userid": "Sz5Wx2XD",
+        "origin": "35245",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "JgevtrSb": [
+      {
+        "id": "636cc9262ccec113b95079bf",
+        "userid": "JgevtrSb",
+        "origin": "39200",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "636cc9262ccec113b95079bf",
+        "userid": "JgevtrSb",
+        "origin": "35227",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "636cc9262ccec113b95079bf",
+        "userid": "JgevtrSb",
+        "origin": "35364",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "GdMZ5rXI": [
+      {
+        "id": "63a32f4b00d7676f1d2d8825",
+        "userid": "GdMZ5rXI",
+        "origin": "35381",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63a32f4b00d7676f1d2d8825",
+        "userid": "GdMZ5rXI",
+        "origin": "35323",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "FQFaM9D4": [
+      {
+        "id": "63a5810e4af3b814e41df892",
+        "userid": "FQFaM9D4",
+        "origin": "39416",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63a5810e4af3b814e41df892",
+        "userid": "FQFaM9D4",
+        "origin": "39175",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "M38rC6wd": [
+      {
+        "id": "635aad1d10d4dc16491ed007",
+        "userid": "M38rC6wd",
+        "origin": "35307",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "635aad1d10d4dc16491ed007",
+        "userid": "M38rC6wd",
+        "origin": "35433",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "LvIeXwcT": [
+      {
+        "id": "63370e3a45ee936df82d4d06",
+        "userid": "LvIeXwcT",
+        "origin": "35362",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63370e3a45ee936df82d4d06",
+        "userid": "LvIeXwcT",
+        "origin": "35445",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude0c",
+          "\ud83d\ude34"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63370e3a45ee936df82d4d06",
+        "userid": "LvIeXwcT",
+        "origin": "35323",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude34"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "zZbRbDHJ": [
+      {
+        "id": "63385204646abf1c883b41da",
+        "userid": "zZbRbDHJ",
+        "origin": "39347",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude0c"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63385204646abf1c883b41da",
+        "userid": "zZbRbDHJ",
+        "origin": "35445",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude34"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63385204646abf1c883b41da",
+        "userid": "zZbRbDHJ",
+        "origin": "35433",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "V337a5b8": [
+      {
+        "id": "6364f54639a6d246b2029b07",
+        "userid": "V337a5b8",
+        "origin": "35310",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude34"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6364f54639a6d246b2029b07",
+        "userid": "V337a5b8",
+        "origin": "35380",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "WsK2A1ab": [
+      {
+        "id": "6338389e48506113dc315697",
+        "userid": "WsK2A1ab",
+        "origin": "35221",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6338389e48506113dc315697",
+        "userid": "WsK2A1ab",
+        "origin": "39352",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6338389e48506113dc315697",
+        "userid": "WsK2A1ab",
+        "origin": "39347",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6338389e48506113dc315697",
+        "userid": "WsK2A1ab",
+        "origin": "35412",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "2JfmseEG": [
+      {
+        "id": "6364f236b6342028c320ac96",
+        "userid": "2JfmseEG",
+        "origin": "35308",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6364f236b6342028c320ac96",
+        "userid": "2JfmseEG",
+        "origin": "35288",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6364f236b6342028c320ac96",
+        "userid": "2JfmseEG",
+        "origin": "35362",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "FVhf7OMw": [
+      {
+        "id": "63385bb4be73e50c31468039",
+        "userid": "FVhf7OMw",
+        "origin": "35330",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63385bb4be73e50c31468039",
+        "userid": "FVhf7OMw",
+        "origin": "39200",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63385bb4be73e50c31468039",
+        "userid": "FVhf7OMw",
+        "origin": "35225",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude0c"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "7zL8hKS8": [
+      {
+        "id": "6364f27c39a6d246b2029ad9",
+        "userid": "7zL8hKS8",
+        "origin": "39200",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\uddd0"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6364f27c39a6d246b2029ad9",
+        "userid": "7zL8hKS8",
+        "origin": "35571",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude22"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "cBjFhvjx": [
+      {
+        "id": "633857663f94ba59773bc667",
+        "userid": "cBjFhvjx",
+        "origin": "35229",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\uddd0"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "633857663f94ba59773bc667",
+        "userid": "cBjFhvjx",
+        "origin": "39648",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd29"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "633857663f94ba59773bc667",
+        "userid": "cBjFhvjx",
+        "origin": "39200",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "633857663f94ba59773bc667",
+        "userid": "cBjFhvjx",
+        "origin": "39175",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude34"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "LW3Klzvx": [
+      {
+        "id": "6338593d2b631c1bf17add24",
+        "userid": "LW3Klzvx",
+        "origin": "35330",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6338593d2b631c1bf17add24",
+        "userid": "LW3Klzvx",
+        "origin": "39175",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6338593d2b631c1bf17add24",
+        "userid": "LW3Klzvx",
+        "origin": "39427",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6338593d2b631c1bf17add24",
+        "userid": "LW3Klzvx",
+        "origin": "35229",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd29"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6338593d2b631c1bf17add24",
+        "userid": "LW3Klzvx",
+        "origin": "35364",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "FbEHiNmP": [
+      {
+        "id": "63a31dc8360026478a5827b5",
+        "userid": "FbEHiNmP",
+        "origin": "35360",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "63a31dc8360026478a5827b5",
+        "userid": "FbEHiNmP",
+        "origin": "35245",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": "",
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "onDqgFnI": [
+      {
+        "id": "633856a77043f23cb5236441",
+        "userid": "onDqgFnI",
+        "origin": "35362",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd29"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "633856a77043f23cb5236441",
+        "userid": "onDqgFnI",
+        "origin": "39416",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd22"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "633856a77043f23cb5236441",
+        "userid": "onDqgFnI",
+        "origin": "35229",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude31"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      }
+    ],
+    "oTT3YRMN": [
+      {
+        "id": "6364f959ec3ec867f01140fb",
+        "userid": "oTT3YRMN",
+        "origin": "35364",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83d\ude0c"
+        ],
+        "context": "application",
+        "datapoints": 0,
+        "category": "interest"
+      },
+      {
+        "id": "6364f959ec3ec867f01140fb",
+        "userid": "oTT3YRMN",
+        "origin": "35230",
+        "source_id": "fake90e6d701748f08514b01",
+        "source": "fake",
+        "pname": "emotions.emojis",
+        "pvalue": [
+          "\ud83e\udd70"
+        ],
         "context": "application",
         "datapoints": 0,
         "category": "interest"
