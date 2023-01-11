@@ -15023,7 +15023,7 @@
         "origin": "35330",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15035,7 +15035,7 @@
         "origin": "35229",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15047,7 +15047,7 @@
         "origin": "35380",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15061,11 +15061,8 @@
         "origin": "35229",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd70",
-          "\ud83e\udd29"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "al mare\n\n",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15076,10 +15073,8 @@
         "origin": "39175",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude31"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "malattia\n",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15092,7 +15087,7 @@
         "origin": "35227",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15104,7 +15099,7 @@
         "origin": "39648",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15118,10 +15113,8 @@
         "origin": "39138",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude34"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15132,10 +15125,8 @@
         "origin": "35360",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd70"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15146,10 +15137,8 @@
         "origin": "35381",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd70"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15160,10 +15149,8 @@
         "origin": "35459",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd70"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15176,10 +15163,8 @@
         "origin": "39347",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude0c"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "mirrored images in water viewed from a bridge ",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15190,10 +15175,8 @@
         "origin": "35459",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude0c"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "a quiet summer afternoon",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15204,10 +15187,8 @@
         "origin": "35224",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude22"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "lost memories ",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15220,7 +15201,7 @@
         "origin": "35380",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15232,7 +15213,7 @@
         "origin": "35217",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15246,11 +15227,8 @@
         "origin": "35381",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd29",
-          "\ud83e\uddd0"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15261,10 +15239,8 @@
         "origin": "35380",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd70"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15275,7 +15251,7 @@
         "origin": "35230",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15289,8 +15265,8 @@
         "origin": "35412",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": "",
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "quanto sia dolorosa la morte ",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15301,8 +15277,8 @@
         "origin": "39352",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": "",
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "i colori della pace ",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15315,10 +15291,8 @@
         "origin": "35330",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude0c"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15329,10 +15303,8 @@
         "origin": "35433",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd70"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15345,10 +15317,8 @@
         "origin": "35450",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd29"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "Ovid's Metamorphosis",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15359,10 +15329,8 @@
         "origin": "35208",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd29"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "the Napoleonic era",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15373,10 +15341,8 @@
         "origin": "39416",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd29"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "a greek temple or a board game",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15389,8 +15355,8 @@
         "origin": "39416",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": "",
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "gli scacchi quando giocavo con mia nonna e mio nonno \n\n\n",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15401,7 +15367,7 @@
         "origin": "39416",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15415,7 +15381,7 @@
         "origin": "35465",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15427,7 +15393,7 @@
         "origin": "35256",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15439,10 +15405,8 @@
         "origin": "35249",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\uddd0"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15455,10 +15419,8 @@
         "origin": "35450",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude22"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "le tipiche donne etrusche ",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15469,10 +15431,8 @@
         "origin": "35215",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude22"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "mi ricorda le campagne dopo una lunga siccit\u00e0 come quest'anno",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15485,7 +15445,7 @@
         "origin": "35221",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15497,8 +15457,8 @@
         "origin": "35459",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": "",
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "nonni",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15509,8 +15469,8 @@
         "origin": "35433",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": "",
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "pirati dei caraibi",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15523,10 +15483,8 @@
         "origin": "39138",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd29"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15537,10 +15495,8 @@
         "origin": "35308",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\uddd0"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15551,7 +15507,7 @@
         "origin": "35310",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15565,7 +15521,7 @@
         "origin": "35381",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15577,7 +15533,7 @@
         "origin": "35310",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15589,7 +15545,7 @@
         "origin": "35433",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15601,8 +15557,8 @@
         "origin": "35227",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": "",
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "l\u2019infanzia",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15615,7 +15571,7 @@
         "origin": "35330",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15627,7 +15583,7 @@
         "origin": "39138",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15641,10 +15597,8 @@
         "origin": "35229",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\uddd0"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15655,10 +15609,8 @@
         "origin": "35217",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\uddd0"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15671,8 +15623,8 @@
         "origin": "39384",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": "",
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "il tramonto",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15683,8 +15635,8 @@
         "origin": "35499",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": "",
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "il caldo estivo",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15697,7 +15649,7 @@
         "origin": "35227",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15709,7 +15661,7 @@
         "origin": "35433",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15723,7 +15675,7 @@
         "origin": "35230",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15735,8 +15687,8 @@
         "origin": "35288",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": "",
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "passato",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15747,7 +15699,7 @@
         "origin": "35323",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15761,11 +15713,8 @@
         "origin": "39426",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd70",
-          "\ud83e\udd29"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15776,11 +15725,8 @@
         "origin": "39347",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd29",
-          "\ud83e\uddd0"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15793,7 +15739,7 @@
         "origin": "35230",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15805,7 +15751,7 @@
         "origin": "35456",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15817,7 +15763,7 @@
         "origin": "35374",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15829,7 +15775,7 @@
         "origin": "39175",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15843,10 +15789,8 @@
         "origin": "35310",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd70"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15857,10 +15801,8 @@
         "origin": "35374",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude22"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15871,10 +15813,8 @@
         "origin": "35222",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude31"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15887,7 +15827,7 @@
         "origin": "39175",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15899,8 +15839,8 @@
         "origin": "35307",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": "",
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "mio paesino",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15911,7 +15851,7 @@
         "origin": "35360",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15923,7 +15863,7 @@
         "origin": "35381",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -15937,8 +15877,8 @@
         "origin": "35499",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": "",
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "Che oggi fa troppo freddo. Che odio il freddo perch\u00e8 mancano 2 giorni a Natale",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15949,8 +15889,8 @@
         "origin": "39389",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": "",
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "il mio cane",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15963,8 +15903,8 @@
         "origin": "35221",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": "",
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "una mia paziente in pediatria",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15975,8 +15915,8 @@
         "origin": "35323",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": "",
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "quando ero piccola ed ero dai nonni",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -15989,7 +15929,7 @@
         "origin": "39138",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16001,7 +15941,7 @@
         "origin": "35459",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16013,12 +15953,8 @@
         "origin": "35364",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd70",
-          "\ud83d\ude22",
-          "\ud83d\ude0c"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16029,7 +15965,7 @@
         "origin": "35456",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16043,10 +15979,8 @@
         "origin": "35321",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude22"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16057,10 +15991,8 @@
         "origin": "39347",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd70"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16073,7 +16005,7 @@
         "origin": "35433",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16085,7 +16017,7 @@
         "origin": "35215",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16099,7 +16031,7 @@
         "origin": "35445",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16111,7 +16043,7 @@
         "origin": "35571",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16125,10 +16057,8 @@
         "origin": "35362",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude31"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "quello che \u00e8 successo la scorsa estate, quando ero quasi affogata nel mare ",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16139,7 +16069,7 @@
         "origin": "39347",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16153,10 +16083,8 @@
         "origin": "35321",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude22"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16167,10 +16095,8 @@
         "origin": "35208",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd70"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "gli studi del liceo",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16181,10 +16107,8 @@
         "origin": "35456",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude0c"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16197,7 +16121,7 @@
         "origin": "35459",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16209,7 +16133,7 @@
         "origin": "35445",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16221,7 +16145,7 @@
         "origin": "35456",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16235,10 +16159,8 @@
         "origin": "35381",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude0c"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16249,11 +16171,8 @@
         "origin": "35323",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude22",
-          "\ud83d\ude0c"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16264,10 +16183,8 @@
         "origin": "39347",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude31"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16280,7 +16197,7 @@
         "origin": "39416",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16292,8 +16209,8 @@
         "origin": "35362",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": "",
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "una localit\u00e0 di mare ",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16306,7 +16223,7 @@
         "origin": "39182",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16318,10 +16235,8 @@
         "origin": "35380",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd70"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16332,10 +16247,8 @@
         "origin": "39648",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude0c"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "casa",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16346,7 +16259,7 @@
         "origin": "35433",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16358,10 +16271,8 @@
         "origin": "35499",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude31"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16374,10 +16285,8 @@
         "origin": "39182",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude0c"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "la casa dello zio di un amico",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16388,10 +16297,8 @@
         "origin": "39138",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd70"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "le piscine delle terme, anche se qui c'\u00e8 una barca",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16404,7 +16311,7 @@
         "origin": "39138",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16416,7 +16323,7 @@
         "origin": "39138",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16430,7 +16337,7 @@
         "origin": "39175",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16442,8 +16349,8 @@
         "origin": "35571",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": "",
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "il corso di ceramica",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16454,7 +16361,7 @@
         "origin": "35230",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16468,7 +16375,7 @@
         "origin": "35288",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16480,7 +16387,7 @@
         "origin": "35360",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16492,7 +16399,7 @@
         "origin": "35445",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16506,7 +16413,7 @@
         "origin": "39384",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16518,7 +16425,7 @@
         "origin": "39138",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16532,10 +16439,8 @@
         "origin": "35230",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd70"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16546,10 +16451,8 @@
         "origin": "35222",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude22"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16562,10 +16465,8 @@
         "origin": "35230",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd70"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16576,7 +16477,7 @@
         "origin": "35380",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16588,10 +16489,8 @@
         "origin": "35229",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd70"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16604,10 +16503,8 @@
         "origin": "35571",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude34"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16618,7 +16515,7 @@
         "origin": "35245",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16632,10 +16529,8 @@
         "origin": "39200",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd70"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16646,8 +16541,8 @@
         "origin": "35227",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": "",
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "i miei nonni che fanno un bel picnic in riva al mare",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16658,8 +16553,8 @@
         "origin": "35364",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": "",
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "mia zia, che aveva molti figli e si prendeva sempre cura con gentilezza di loro",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16672,7 +16567,7 @@
         "origin": "35381",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16684,7 +16579,7 @@
         "origin": "35323",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16698,8 +16593,8 @@
         "origin": "39416",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": "",
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "i giochi di ruolo con i nonni e i cugini",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16710,8 +16605,8 @@
         "origin": "39175",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": "",
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "la tavola imbandita del cenone di natale",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16724,7 +16619,7 @@
         "origin": "35307",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16736,7 +16631,7 @@
         "origin": "35433",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16750,10 +16645,8 @@
         "origin": "35362",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd70"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "la mia infanzia ",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16764,11 +16657,8 @@
         "origin": "35445",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude0c",
-          "\ud83d\ude34"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "quando studiavo ",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16779,10 +16669,8 @@
         "origin": "35323",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude34"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "la primavera ",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16795,10 +16683,8 @@
         "origin": "39347",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude0c"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16809,10 +16695,8 @@
         "origin": "35445",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude34"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16823,10 +16707,8 @@
         "origin": "35433",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd70"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16839,10 +16721,8 @@
         "origin": "35310",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude34"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16853,10 +16733,8 @@
         "origin": "35380",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd70"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16869,7 +16747,7 @@
         "origin": "35221",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16881,7 +16759,7 @@
         "origin": "39352",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16893,7 +16771,7 @@
         "origin": "39347",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16905,7 +16783,7 @@
         "origin": "35412",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16919,7 +16797,7 @@
         "origin": "35308",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16931,7 +16809,7 @@
         "origin": "35288",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16943,7 +16821,7 @@
         "origin": "35362",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16957,7 +16835,7 @@
         "origin": "35330",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16969,7 +16847,7 @@
         "origin": "39200",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -16981,10 +16859,8 @@
         "origin": "35225",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude0c"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -16997,10 +16873,8 @@
         "origin": "39200",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\uddd0"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -17011,10 +16885,8 @@
         "origin": "35571",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude22"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -17027,10 +16899,8 @@
         "origin": "35229",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\uddd0"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -17041,10 +16911,8 @@
         "origin": "39648",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd29"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -17055,7 +16923,7 @@
         "origin": "39200",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -17067,10 +16935,8 @@
         "origin": "39175",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude34"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -17083,7 +16949,7 @@
         "origin": "35330",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -17095,7 +16961,7 @@
         "origin": "39175",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -17107,7 +16973,7 @@
         "origin": "39427",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -17119,10 +16985,8 @@
         "origin": "35229",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd29"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -17133,7 +16997,7 @@
         "origin": "35364",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -17147,7 +17011,7 @@
         "origin": "35360",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -17159,7 +17023,7 @@
         "origin": "35245",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
+        "pname": "itRemindsMeOf.text",
         "pvalue": "",
         "context": "application",
         "datapoints": 0,
@@ -17173,10 +17037,8 @@
         "origin": "35362",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd29"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -17187,10 +17049,8 @@
         "origin": "39416",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd22"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -17201,10 +17061,8 @@
         "origin": "35229",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude31"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -17217,10 +17075,8 @@
         "origin": "35364",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83d\ude0c"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -17231,10 +17087,8 @@
         "origin": "35230",
         "source_id": "fake90e6d701748f08514b01",
         "source": "fake",
-        "pname": "emotions.emojis",
-        "pvalue": [
-          "\ud83e\udd70"
-        ],
+        "pname": "itRemindsMeOf.text",
+        "pvalue": "",
         "context": "application",
         "datapoints": 0,
         "category": "interest"
@@ -20378,8 +20232,8 @@
         "pname": "emotions.emojis",
         "pvalue": [
           "\ud83e\udd70",
-          "\ud83d\ude22",
-          "\ud83d\ude0c"
+          "\ud83d\ude0c",
+          "\ud83d\ude22"
         ],
         "context": "application",
         "datapoints": 0,
@@ -20613,8 +20467,8 @@
         "source": "fake",
         "pname": "emotions.emojis",
         "pvalue": [
-          "\ud83d\ude22",
-          "\ud83d\ude0c"
+          "\ud83d\ude0c",
+          "\ud83d\ude22"
         ],
         "context": "application",
         "datapoints": 0,
@@ -21128,8 +20982,8 @@
         "source": "fake",
         "pname": "emotions.emojis",
         "pvalue": [
-          "\ud83d\ude0c",
-          "\ud83d\ude34"
+          "\ud83d\ude34",
+          "\ud83d\ude0c"
         ],
         "context": "application",
         "datapoints": 0,
